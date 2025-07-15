@@ -39,9 +39,9 @@ Automated an end-to-end pipeline that cleaned and loaded large retail datasets i
 ---
 
 ### 🤝 Let’s Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sowjanya-sakhamuri/)
+- 📬 [Email](mailto:sakhamurisowjanya1904@email.com)
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here/)
-- 📬 [Email](mailto:your-email@example.com)
 
 ---
 
